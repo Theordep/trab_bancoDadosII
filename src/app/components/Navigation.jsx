@@ -10,6 +10,7 @@ export default function Navigation() {
         { href: '/clientes', label: '👥 Clientes', color: 'hover:bg-green-700' },
         { href: '/agendamentos', label: '📅 Agendamentos', color: 'hover:bg-purple-700' },
         { href: '/produtos', label: '📦 Produtos', color: 'hover:bg-orange-700' },
+        { href: '/animais', label: '🐶 Animais', color: 'hover:bg-red-700' }
     ]
 
     return (
